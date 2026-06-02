@@ -2,8 +2,30 @@
 
 ## Objective
 Use SQL queries to extract and analyze employee attrition data from a relational database, covering selection, filtering, aggregation, joins, subqueries, views, and indexing.
+
 **Tool Used:** MySQL Workbench 
 **Dataset:** HR Attrition Dataset (`HR_Attrition_dataset.csv`)
+
+## Repository Structure
+
+```
+Task3-SQL-Analysis/
+│
+├── TASK3_SQL_QUERIES.sql       # All SQL queries used in this task
+├── README.md                   # Project documentation (this file)
+└── screenshots/                # Output screenshots from SQL Server
+    ├── select.png
+    ├── where.png
+    ├── order_by.png
+    ├── group_by.png
+    ├── inner_join.png
+    ├── left_join.png
+    ├── right_join.png
+    ├── sum.png
+    ├── avg.png
+    ├── view.png
+    └── index.png
+```
 
 ## Dataset Overview
 
