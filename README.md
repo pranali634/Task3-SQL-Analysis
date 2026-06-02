@@ -94,7 +94,7 @@ Task3-SQL-Analysis/
 
 ## How to Reproduce
 
-1. Download the dataset from Kaggle (link above) and save the CSV locally.
+1. Download the dataset from Kaggle and save the CSV locally.
 2. Open **MySQL**.
 3. Open `TASK3_SQL_QUERIES.sql`.
 4. Update the path in the `BULK INSERT` statement to match your local CSV file location.
